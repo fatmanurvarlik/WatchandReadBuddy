@@ -4,8 +4,10 @@ Bu proje, UP School - First AI Developer programı Capstone projesi kapsamında 
 
 Watch & Read Buddy, kişinin okuduğu kitap ya da izlediği film/dizi temasına göre diğer kategorilerde öneri sunan bir chatbottur.
 
-• Proje, 'pyhton' dili ile hazırlanmıştır. 
+• Proje, 'pyhton' dili ile hazırlanmıştır.
+
 • Google Gemini API kullanılmıştır. 
+
 • Streamlit kütüphanesinden faydalanılmıştır. 
 
 ![](https://github.com/fatmanurvarlik/WatchandReadBuddy/blob/main/G%C3%B6rseller/Chatbot.png)
