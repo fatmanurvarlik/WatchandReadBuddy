@@ -10,6 +10,8 @@ Watch & Read Buddy, kişinin okuduğu kitap ya da izlediği film/dizi temasına 
 
 • Streamlit kütüphanesinden faydalanılmıştır. 
 
+**NOT: chatbot_v.2.py dosyasında eklemeler yapılmış,daha iyi sonuç almak için prompt iyileştirmesi yapılmıştır. Bu versiyona ait sonuçlar aşağıdaki görsellerde yer almamaktadır!**
+
 ![](https://github.com/fatmanurvarlik/WatchandReadBuddy/blob/main/G%C3%B6rseller/Chatbot.png)
 
 ## Projeye Dair Videolar
