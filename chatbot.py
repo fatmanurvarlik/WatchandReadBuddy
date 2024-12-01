@@ -41,7 +41,7 @@ def gemini_response(prompt):
 
     return response
 
-##text_area widgetını dene 
+
 user_input = st.text_input("En sevdiğiniz kitap, film veya dizi hangisi? 😉")
 
 if user_input is not None and user_input != "":
